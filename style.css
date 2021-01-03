@@ -1,0 +1,56 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.wecome {
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 25px 0;
+}
+.left-side {
+    float: left;
+    width: 40%;
+   
+}
+.right-side{
+    width: 40%;
+    float: right;
+   }
+.left-side h1 {
+    font-size: 60px;
+    line-height: 90px;
+}
+.left-side h1 .hight-light{
+    color: #FF0C8F; 
+}
+.left-side h2 {
+    font-size: 30px;
+}
+.left-side h3 {
+    font-size: 20px;
+    display: block;
+    color: #000000ab;
+}
+
+.link-button{
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-image: linear-gradient(45deg, #FF0C8F, #4d0029);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #fff;
+}
+.link-button:hover{
+    background-image: linear-gradient(45deg, #2a0217, #eb238e);
+    color: #f5eef2;
+}
+img{
+    width: 100%;
+}
