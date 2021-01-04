@@ -86,12 +86,25 @@ img{
     height: 400px;
     padding: 5px 15px;
     border-radius: 5px;
+    background-color: #fff;
 }
 .footer-area{
     padding: 0;
 }
 .footer-area h3{
     text-align: center;
+}
+
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, #FF0C8F, #4d0029);
+    border-image-slice: 1;
+}
+
+#jonior-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, #2a0217, #eb238e);
+    border-image-slice: 1;
 }
 
 /***Responsive***/
