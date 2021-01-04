@@ -120,6 +120,9 @@ img{
     h2{
         14px;
     }
+    .single-experince{
+        height: 100%;
+    }
 
   }
 
@@ -133,4 +136,8 @@ img{
         width: 100%;
         margin-top: 60px;
     }
+    .single-experince{
+        height: 100%;
+    }
+
   }
